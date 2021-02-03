@@ -1,0 +1,28 @@
+.Sidebare {
+    height: 100%;
+    width: 80px;
+    background-color: #1e1e1f;
+}
+
+.grid {
+    background-color: #212121;
+   
+   
+}
+
+.grid2 {
+    background-color: #e0e0e0;
+}
+
+.h1 {
+    color: rgb(41, 87, 124);
+}
+
+.h52 {
+    color: #adee82;
+}
+.react-flow__node-default {
+    background: #fff;
+    border-color: transparent !important;
+    width: 52px;
+}

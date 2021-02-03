@@ -1,0 +1,32 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .GlobalBox {
+    width: 100vw;
+    border: solid black 1px;
+
+   }
+  
+  .LocalBox {
+    border: solid black 1px;
+  
+    position: relative;
+    width: 200px;
+
+    height: 200px;
+  }
+  
+  .Thing {
+    background-color: red;
+    top: 100px;
+    left: 400px;
+    position: absolute;
+  }
+  
+  .react-flow__node-input {
+    background: #fff;
+    border-color: transparent !important;
+    width: 52px;
+}
